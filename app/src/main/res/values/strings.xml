@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">newplay</string>
+    <string name="timing">秒后跳转</string>
+</resources>
